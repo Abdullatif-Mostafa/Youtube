@@ -327,12 +327,12 @@ hr
 }
 .center-conent .describtion .info p
 {
-    font-size: 2.9rem;
+    font-size: 2.2rem;
     margin-bottom: 0;
 }
 .center-conent .describtion .info span
 {
-    font-size: 1.9rem;
+    font-size: 1.6rem;
     display: flex;
     margin-bottom:5px;
     text-transform: capitalize;
@@ -403,7 +403,6 @@ hr
     .center-conent .cont-details
     {
         width: 320px;
-        /* background-color: red; */
     }
 }
 @media (min-width:769px) and (max-width:999px)
